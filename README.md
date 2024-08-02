@@ -1,7 +1,3 @@
-Use [config.json](https://freesr-tools.pages.dev/) from this site to configure battle.
-A PS for 2.5 Beta of the game Honky Soup Rail
-Fork of KainSR
-
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -32,10 +28,14 @@ Fork of KainSR
 
 You need to install [node.js](https://nodejs.org/en/download/prebuilt-installer)
 
+A PS for 2.5 Beta of the game Honky Soup Rail
+
+Fork of KainSR
+
 ## How to start:
 ```bash
-- open `install.bat` (first time only)
-- open `run.bat` 
+- open install.bat (first time only)
+- open run.bat
 - the first time run will be pretty long. If you see Server listening on port 23301, it means it work.
 ```
 
