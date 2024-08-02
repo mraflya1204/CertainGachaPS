@@ -33,8 +33,8 @@ A PS for 2.5 Beta of the game Honky Soup Rail
 Fork of KainSR
 
 ## How to start:
-```bash
-- open install.bat (first time only)
+```
+- open install.bat (one time only)
 - open run.bat
 - the first time run will be pretty long. If you see Server listening on port 23301, it means it work.
 ```
