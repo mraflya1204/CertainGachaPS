@@ -1,6 +1,6 @@
-支持 [config.json](https://freesr-tools.pages.dev/) 配置导入，支持2.4.5X
-
-Fork of https://github.com/AzenKain/KainSR
+Use [config.json](https://freesr-tools.pages.dev/) from this site to configure battle.
+A PS for 2.5 Beta of the game Honky Soup Rail
+Fork of KainSR
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
@@ -30,40 +30,21 @@ Fork of https://github.com/AzenKain/KainSR
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+You need to install [node.js](https://nodejs.org/en/download/prebuilt-installer)
 
-# 安装
-
+## How to start:
 ```bash
-# 前提步骤
-$ npm install
+- open `install.bat` (first time only)
+- open `run.bat` 
+- the first time run will be pretty long. If you see Server listening on port 23301, it means it work.
 ```
 
-## 1. 自动运行:
-```bash
-$ 双击文件 run.bat 即可一键运行
+## How to configure team, relic, etc
 ```
-首次启动会花费较长时间进行编译，待提示`Server listening on port 23301`时说明启动完成
-
-注意，主角可能要进战斗以后才会显示
-## 2. 手动运行:
-
-### 2.1 流量代理
-
-```bash
-$ 您需要运行 FireFly.Proxy.v2 中的 FireflySR.Tool.Proxy.exe
-```
-
-### 2.2 运行应用
-
-```bash
-# development
-$ npm run start
-
-# watch mode 
-$ npm run start:dev 
-
-# production mode
-$ npm run start:prod
+- Go to https://freesr-tools.pages.dev/
+- After configure everything, download config.json
+- Put config.json on src/data
+- Replace existing
 ```
 
 ## Support
