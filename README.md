@@ -30,6 +30,8 @@ You need to install [node.js](https://nodejs.org/en/download/prebuilt-installer)
 
 A PS for 2.5 Beta of the game Honky Soup Rail
 
+[Client Download (torrent)](https://cdn.discordapp.com/attachments/556115472781672450/1269053064224968774/HSR2.5_beta_reversedrooms.torrent?ex=66aea944&is=66ad57c4&hm=8df3adf95d90a1d5b97e4d3de178205b0be27aebcf0bb52107b67c6917899d8c&)
+
 Fork of KainSR
 
 ## How to start:
