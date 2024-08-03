@@ -38,7 +38,7 @@ Fork of KainSR
 ```
 - open install.bat (one time only)
 - open run.bat
-- the first time run will be pretty long. If you see Server listening on port 23301, it means it work.
+- the first time run will be pretty long. If you see Server listening on port 23301, it means that it works as intended.
 ```
 
 ## How to configure team, relic, etc
