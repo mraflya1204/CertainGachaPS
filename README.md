@@ -30,7 +30,7 @@ You need to install [node.js](https://nodejs.org/en/download/prebuilt-installer)
 
 A PS for 2.5 Beta of the game Honky Soup Rail
 
-[2.4.51 Client Download (torrent)](webtorrent:https://git.xeondev.com/xeon/3/raw/branch/3/HSR2.5_beta_reversedrooms.torrent)
+[2.4.51 Client Download (torrent)](https://git.xeondev.com/xeon/3/raw/branch/3/HSR2.5_beta_reversedrooms.torrent)
 
 [2.4.51_2.4.52 hdiff](https://drive.google.com/file/d/1rcdSL5TyjkPidpswhxFHxH1QXz3QVf5V/view?usp=drive_link)
 
