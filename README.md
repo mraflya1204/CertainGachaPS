@@ -36,7 +36,7 @@ A PS for 2.5 Beta of the game Honky Soup Rail
 
 [2.4.52_2.4.53 hdiff](https://drive.google.com/file/d/1NAHBH135dcSQMXsiDRonjW0C2Tw4mDyz/view?usp=drive_link)
 
-[2.4.53_2.4.54 hdiff](https://drive.google.com/drive/folders/14EXPZ45ZbHuo72R97TqgUGp653JeZUE6)
+[2.4.53_2.4.54 hdiff](https://drive.google.com/file/d/1ZUpMdTIDUA4o4blg8vDGlM86Qli6eXJU/view?usp=sharing)
 
 Fork of KainSR
 
