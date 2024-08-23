@@ -58,7 +58,8 @@ Fork of KainSR
 - Replace existing
 ```
 
-SRTools is dead, you kinda need to figure out yourself with hardcoding.
+In case SRTools is dead, you kinda need to figure out yourself with hardcoding.
+
 If you need info on MoC/AS/PF IDs, use hakush.in's API.
 
 Example: https://api.hakush.in/hsr/data/en/maze/1018.json
